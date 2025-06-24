@@ -1,4 +1,0 @@
-pymupdf
-google-generativeal
-gunicorn
-django
